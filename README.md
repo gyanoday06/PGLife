@@ -13,11 +13,7 @@ PGLife serves as a valuable resource for individuals searching for PG accommodat
 - **JavaScript:** Adding interactivity and enhancing user experience. 🧩
 - **React:** Incorporating modern web development techniques for a more dynamic interface. ⚛️
 - **PHP:** Handling server-side scripting to manage data and interactions. 🖥️
-- **SQL:** Utilizing a database to store and retrieve PG accommodation information. 📊
-
-## Usage 🏡
-
-Feel free to explore the website to search for available PGs in the city. You can filter and browse through various options to find the one that suits your needs. Whether you're a student, a working professional, or anyone in search of PG accommodation, PGLife is here to help you find your next home. 🏢
+- **SQL:** Utilizing a database to store and retrieve PG accommodation information. 
 
 ### Links
 
