@@ -17,7 +17,7 @@ PGLife serves as a valuable resource for individuals searching for PG accommodat
 
 ### Links
 
-- Solution URL: [PGLife](pglifegk.free.nf)
+- Solution URL: [PGLife](pglifegk.free.nf) <a href=""http://pglifegk.free.nf/>PG Life</a>
 
 ## Author
 - LinkedIn - [@gyanoday06](https://www.linkedin.com/in/gyanoday06)
